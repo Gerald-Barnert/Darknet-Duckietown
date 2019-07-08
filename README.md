@@ -1,1 +1,1 @@
-# Darknet-Duckietown
+# DeepLearning-Duckietown
