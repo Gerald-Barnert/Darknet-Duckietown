@@ -9,7 +9,7 @@ Buscamos detectar objetos con la camara del duckiebot. En este caso se trabajara
 
 >1) Insertar la imagenes en **main/input**
 >2) Insertar las clases en **class_list.txt**
->3) Ejecutar: '''python run.py'''
+>3) Ejecutar: ```python run.py```
 
 
 
