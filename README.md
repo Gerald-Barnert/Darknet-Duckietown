@@ -8,8 +8,8 @@ Darknet es el framework de redes neuronales con la que se implementa YOLO.
 Buscamos detectar objetos con la camara del duckiebot. En este caso se trabajara con 2 clases: duckiebots y patos. Lo primero es tomar fotos de los objetos a detectar. Una vez hecho esto, se procede a etiquetar las imagenes:
 
 >1) Insertar la imagenes en **main/input**
->2) Insetar las clases en **class_list.txt**
->3) 
+>2) Insertar las clases en **class_list.txt**
+>3) Ejecutar: '''python run.py'''
 
 
 
