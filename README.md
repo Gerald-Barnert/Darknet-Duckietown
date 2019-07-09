@@ -11,8 +11,7 @@ Buscamos detectar objetos con la camara del duckiebot. En este caso se trabajara
 >2) Insertar las clases en **class_list.txt**
 >3) Ejecutar: ```python run.py```
 
-Esto generara un archivo .txt. 
-Luego ejecutar: ```python process.py``` para procesar los archivos y poder entrenarlos en YOLO.
+Esto generara un archivo .txt.  Luego ejecutar: ```python process.py``` para procesar los archivos y poder entrenarlos en YOLO.
 #### Entrenamiento
 Para entrenar, seguimos los pasos dichos en esta guia: [How to train YOLOv3 to detect custom objects](https://medium.com/@manivannan_data/how-to-train-yolov3-to-detect-custom-objects-ccbcafeb13d2)
 
